@@ -1,6 +1,7 @@
 # OSA-Questionnaire
 
 The questionnaire is used for obstructive sleep apnea risk prediction by using 6 questions: BMI, gender, hypertension history, age, neck girth, and snoring loudness. The quesionnaire will pre-classify subjects to two groups, followed by two independent LR model for prediction for each group. 
+
 ![image](https://user-images.githubusercontent.com/65090100/161368779-66370d44-8bef-4f25-8619-773e0a66d08f.png)
 
 
