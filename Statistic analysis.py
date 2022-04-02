@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 30 00:00:18 2021
 
-@author: gudu0
+@author: Jiayan
 """
 
 #import package
